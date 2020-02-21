@@ -1,0 +1,35 @@
+.pokedesWrapper {
+
+}
+
+.cardWrapper {
+    width: 30%;
+    height: 30%;
+    background-color: bisque;
+    display: block;
+    float: left;
+    position: relative;
+    margin: 0 .78125% 50px;
+    border: salmon solid 2px;
+}
+
+.imgWrapper {
+    margin: 0 auto;
+    display: block;
+    width: 75%;
+
+
+}
+
+
+.figure {
+}
+
+
+.id {
+    font-family: "Roboto", arial, sans-serif;
+    font-weight: bold;
+    color: sandybrown;
+    font-size: 80%;
+    padding-top: 2px;
+}

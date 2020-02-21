@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2f16028-0a0a-43b3-a627-098de4f3b173" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PokemonInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PokemonStatusBtn/PokemonStatus.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PokemonStatusBtn/PokemonStatus.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PokemonsList/PokemonList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PokemonsList/PokemonList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Сaught/CaughtPokemons.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dialogs/Dialogs.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dialogs/Dialogs.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Music/Music.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Music/Music.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Redux/actionTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../News/News.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../News/News.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Redux/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokedeks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Сaught/CaughtPokemons.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokedeks.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/PokemonInfo.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Settings/Settings.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Settings/Settings.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Redux/redux-store.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1Xr85lc0nCUnWWpkw908i4i9uWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2f16028-0a0a-43b3-a627-098de4f3b173" name="Default Changelist" comment="" />
+      <created>1581792672291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581792672291</updated>
+      <workItem from="1581792676881" duration="16000" />
+      <workItem from="1581792719979" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
