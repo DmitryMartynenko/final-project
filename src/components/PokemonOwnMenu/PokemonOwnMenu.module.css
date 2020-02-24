@@ -1,0 +1,35 @@
+.headline {
+    color: white;
+    width: 100%;
+    margin: 2%;
+}
+
+.button {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: none;
+    background-color: mintcream;
+    border-radius: 20px;
+    width: 20%;
+    height: 10vh;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+    margin-left:5%;
+}
+
+.buttonText {
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 10%;
+    font-family: Tahoma, Geneva, sans-serif;
+    letter-spacing: 2.6px;
+    word-spacing: 0.4px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    font-size: 150%;
+}
+

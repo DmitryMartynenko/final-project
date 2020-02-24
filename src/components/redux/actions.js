@@ -1,8 +1,10 @@
 import {CATCH_POKEMON} from "./actionTypes";
 
-export function catchPokemon(id) {
+export function catchPokemon(id,date) {
+
     return {
         type: CATCH_POKEMON,
-        id
+        id,
+        date
     };
 }

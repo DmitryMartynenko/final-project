@@ -1,13 +1,24 @@
- .nav {
+.nav {
     grid-area: n;
-    background-color: seagreen;
-  }
-  
-  .item a{
-      color: white;
-      text-decoration: none;
-  }
+    background-color: skyblue;
+    min-height: 30em;
+}
 
-  .item a.activeLink {
+
+.navPosition {
+position: fixed;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+    margin: 0;
+    font-size: 150%;
+
+
+}
+
+.item a.activeLink {
     color: gold;
-  }
+}
+

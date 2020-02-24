@@ -1,17 +1,19 @@
 import {CATCH_POKEMON} from "./actionTypes";
-import connect from "react-redux/lib/connect/connect";
 
 const initialState = {
-    caughtPokemons: []
+    caughtPokemons: [],
+    dateCaughtPokemons: []
+
 };
 
 function pokemonsReducer(state = initialState, action) {
 
-        switch (action.type) {
+    switch (action.type) {
         case CATCH_POKEMON: {
             return {
                 ...state,
-                caughtPokemons: [...state.caughtPokemons, action.id]
+                caughtPokemons: [...state.caughtPokemons, action.id],
+                dateCaughtPokemons: [...state.dateCaughtPokemons, action.date]
             };
         }
         default:

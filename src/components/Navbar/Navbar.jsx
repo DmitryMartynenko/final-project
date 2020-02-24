@@ -6,12 +6,14 @@ import {NavLink} from "react-router-dom"; // s = class
 const Navbar = () => {
     return (
         <nav className={s.nav}>
-            <div className={s.item}>
-                <NavLink to='/pokemonList' activeClassName={s.activeLink}>Pokedeks</NavLink>
-            </div>
-            <div className={s.item}>
-                <NavLink to='/caught' activeClassName={s.activeLink}>caught</NavLink>
-            </div>
+            <duv className={s.navPosition}>
+                <div className={s.item}>
+                    <NavLink to='/pokemonList' activeClassName={s.activeLink}>pokedex</NavLink>
+                </div>
+                <div className={s.item}>
+                    <NavLink to='/caught' activeClassName={s.activeLink}> caught</NavLink>
+                </div>
+            </duv>
         </nav>
     )
 };

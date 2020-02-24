@@ -1,6 +1,6 @@
 .header {
     display: flex;
-    background: rgba(0, 142, 161, 0.6588235294117647);;
+    background: rgba(85, 140, 161, 0.8588235294117647);
     color: white;
     position: fixed;
     width: 100%;
@@ -9,7 +9,6 @@
 
 .main-title {
     cursor: default;
-
 }
 
 
